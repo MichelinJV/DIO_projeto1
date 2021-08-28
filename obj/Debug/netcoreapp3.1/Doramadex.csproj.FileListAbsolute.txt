@@ -1,0 +1,13 @@
+C:\Users\MichelinJV\Desktop\Compartilhamento\testeCSharp\Doramadex\Doramadex\bin\Debug\netcoreapp3.1\Doramadex.exe
+C:\Users\MichelinJV\Desktop\Compartilhamento\testeCSharp\Doramadex\Doramadex\bin\Debug\netcoreapp3.1\Doramadex.deps.json
+C:\Users\MichelinJV\Desktop\Compartilhamento\testeCSharp\Doramadex\Doramadex\bin\Debug\netcoreapp3.1\Doramadex.runtimeconfig.json
+C:\Users\MichelinJV\Desktop\Compartilhamento\testeCSharp\Doramadex\Doramadex\bin\Debug\netcoreapp3.1\Doramadex.runtimeconfig.dev.json
+C:\Users\MichelinJV\Desktop\Compartilhamento\testeCSharp\Doramadex\Doramadex\bin\Debug\netcoreapp3.1\Doramadex.dll
+C:\Users\MichelinJV\Desktop\Compartilhamento\testeCSharp\Doramadex\Doramadex\bin\Debug\netcoreapp3.1\Doramadex.pdb
+C:\Users\MichelinJV\Desktop\Compartilhamento\testeCSharp\Doramadex\Doramadex\obj\Debug\netcoreapp3.1\Doramadex.csprojAssemblyReference.cache
+C:\Users\MichelinJV\Desktop\Compartilhamento\testeCSharp\Doramadex\Doramadex\obj\Debug\netcoreapp3.1\Doramadex.AssemblyInfoInputs.cache
+C:\Users\MichelinJV\Desktop\Compartilhamento\testeCSharp\Doramadex\Doramadex\obj\Debug\netcoreapp3.1\Doramadex.AssemblyInfo.cs
+C:\Users\MichelinJV\Desktop\Compartilhamento\testeCSharp\Doramadex\Doramadex\obj\Debug\netcoreapp3.1\Doramadex.csproj.CoreCompileInputs.cache
+C:\Users\MichelinJV\Desktop\Compartilhamento\testeCSharp\Doramadex\Doramadex\obj\Debug\netcoreapp3.1\Doramadex.dll
+C:\Users\MichelinJV\Desktop\Compartilhamento\testeCSharp\Doramadex\Doramadex\obj\Debug\netcoreapp3.1\Doramadex.pdb
+C:\Users\MichelinJV\Desktop\Compartilhamento\testeCSharp\Doramadex\Doramadex\obj\Debug\netcoreapp3.1\Doramadex.genruntimeconfig.cache
